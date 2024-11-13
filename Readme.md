@@ -48,7 +48,7 @@ With this command you will verify that you have the image in your docker.
 
 ## Image in DockerHub
 
-You need account in Docker Hub and update your php Image.
+You need account in Docker Hub and update your js Image.
 
 ### Results
 
