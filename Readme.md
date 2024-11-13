@@ -1,8 +1,10 @@
 # About the project
-# Hello world with Python
+
+# Hello world with JavaScript
 
 
-A basic JavaScript project that prints a Hello World.
+A basic JavaScript project that prints a "Hello World."
+
 ### Built With
 
 This project build with:
@@ -29,7 +31,7 @@ This project build with:
 
 * Docker - DockerDesktop installed
 * DockerHub account
-* 
+
 ### Download image
 ```
     docker pull edwinallauca/js-app
@@ -44,8 +46,13 @@ You can open de CMD and run this :
 With this command you will verify that you have the image in your docker.
 
 
+## Image in DockerHub
 
-## Results
+You need account in Docker Hub and update your php Image.
+
+### Results
+
 
 ![image](https://github.com/user-attachments/assets/6cf68670-01fb-47c6-99e6-2f441aaae6a6)
 
+![image](https://github.com/user-attachments/assets/0c3fd256-0432-4eb2-a203-fd2bbb445d6f)
