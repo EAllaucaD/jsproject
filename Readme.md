@@ -34,14 +34,14 @@ This project build with:
 
 ### Download image
 ```
-    docker pull edwinallauca/js-app
+    docker pull edwinallauca/js-app:v1.0
 
 ```
 
 ### View the results
 You can open de CMD and run this :
 ```
-    docker run -it js-app
+    docker run -it edwinallauca/js-app:v1.0
 ```
 With this command you will verify that you have the image in your docker.
 
